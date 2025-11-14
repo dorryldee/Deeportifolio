@@ -225,3 +225,5 @@
     backDelay: 1500,
     loop: true
   });
+  
+  
